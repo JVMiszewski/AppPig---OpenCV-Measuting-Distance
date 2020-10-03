@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">OpenCVTesting</string>
+    <string name="picture">Imagem</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">Requer permissão do uso da camera.</string>
+    <string name="camera_error">Esse dispositivo não é compativel com a Camera2Api</string>
+
+    <string name="intro_message">
+        <![CDATA[
+
+
+            Em fase de testes!
+
+        ]]>
+    </string>
+</resources>
